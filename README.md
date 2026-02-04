@@ -1,5 +1,5 @@
 # 💫 About Me:
-### About Me :<br><br>🔭 I’m currently working on full-stack Python web projects  <br>👯 I’m looking to collaborate on web development projects  <br>🤝 I’m looking for help with improving real-world project skills  <br>🌱 I’m currently learning advanced Django and backend concepts  <br>💬 Ask me about HTML, CSS, JavaScript, Python, Django, and SQL  <br>⚡ Fun fact: I love learning by building projects
+Hi, I’m Rahul, a Full-Stack Python Developer from India. I work with HTML, CSS, JavaScript, Bootstrap, Python, Django, and SQL. I enjoy building web applications and learning new things every day.
 
 
 ## 🌐 Socials:
